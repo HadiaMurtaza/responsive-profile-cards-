@@ -1,3 +1,7 @@
+<img width="1810" height="961" alt="image" src="https://github.com/user-attachments/assets/b520e850-5dbc-447d-8e73-8cd9e5640d63" />
+<img width="1837" height="538" alt="image" src="https://github.com/user-attachments/assets/876b3ac4-c4ad-4e93-8b99-632c96e3388f" />
+
+
 # responsive-profile-cards-
 Responsive profile cards built with HTML Bootstrap and CSS, featuring circular profile images, star ratings, and interactive-style buttons.
 ## About
