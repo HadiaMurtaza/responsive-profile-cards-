@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(137, 85, 186);
+}
+.card img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 4px solid rgb(137, 85, 186);
+}
+.card h5{
+    color:rgb(137, 85, 186) ;
+}
+.card .btn{
+    border: 2px solid rgb(137, 85, 186);
+    color: rgb(137, 85, 186);
+}
+.card .other{
+    background-color: rgb(137, 85, 186);
+    border: 2px solid rgb(137, 85, 186);
+    color: #fff;
+}
+.card .icons{
+    color: rgb(137, 85, 186);
+}
